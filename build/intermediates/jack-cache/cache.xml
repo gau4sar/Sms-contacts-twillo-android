@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gaurav/.android/build-cache/7082c179e2e5df51289cb8aa47a7759249d3c553/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a8be73e4c5cb0c35f1413a6f42957c8ffe3530bd.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        revision="25.0.3"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.7.0-433f19570602837104bccaa8a923bbca157eef2b.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-64d5156adf6bfc20c83f5e1cf1e4bc99558ce27e.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.6/562424e36df3d2327e8e9301a76027fca17d54ea/slf4j-api-1.7.6.jar"
+        revision="25.0.3"
+        sha1="562424e36df3d2327e8e9301a76027fca17d54ea">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/slf4j-api-1.7.6-976f3aeee002fed4367a8f712c694bda984115ef.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        revision="25.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.2.0-96744e18304fcf9661ae9c214eeac9150cd2744d.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar"
+        revision="25.0.3"
+        sha1="e6cb541461c2834bdea3eb920f1884d1eb508b50">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/activation-1.1-bf15b3cf7eed2d62bcf76d563f8d46c70a31a1de.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.twilio.sdk/twilio/7.13.0/964b5bc22aa627f8bff6b4e1cd022ad978cde2dc/twilio-7.13.0.jar"
+        revision="25.0.3"
+        sha1="964b5bc22aa627f8bff6b4e1cd022ad978cde2dc">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/twilio-7.13.0-8142f5bf300e30c9a9ccdb63398f78d7716ce75e.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.7/7407d69da9d95d3dcbd17eb9579e2b601889f19/jackson-annotations-2.8.7.jar"
+        revision="25.0.3"
+        sha1="07407d69da9d95d3dcbd17eb9579e2b601889f19">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-annotations-2.8.7-38e252db24185591a1d32d60f701d8629148bfe2.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/54490a73edc4d634a53b2d7ef10352fa4d62ddd5/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-02a56f54d5f4318de85697260b8fbaa516e7dbb6.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/5755513ed810eab40b12bee90047bbcfea8762c7/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-96d783b106deaaa77db872fa880174c3440b30b8.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/967e46f6a0f12d1888528d9767696c1c7cd5851b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d77f5a5b8cc4f356d7449f515ae8bf932a56a31b.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-971075ee9eab4a6d6278e6e352c49a3cd86d43c6.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/2c6012c71251753bee03341c26723f75df64cc0a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-40a27e97a665e6f5adc78b20e1926310bd722cb1.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/2b751bdd7d82529d937ab7d06a8b527d08ad49a9/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-af3afb2d67b90cfa7ea56881f0772b85a0f0fb7e.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/caa95a612553858ad347e5343cc0059031d5059c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5760671ed3a2f51d7601f9b8b266ac61109afafe.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.7/8b46f39c78476fb848c81a49fa807a9e9506dddd/jackson-core-2.8.7.jar"
+        revision="25.0.3"
+        sha1="8b46f39c78476fb848c81a49fa807a9e9506dddd">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-core-2.8.7-5172b2fbfc07fa79388bdd34e9cf3fb21ea9fa6f.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.6.0-43a153c381f2a6a055b719b15d12eaa015230798.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-b343a114d86a17728e10308dea78abb1995f246a.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.7/6c3257ef458ac58a8da69a6dca3d2a15286d88c8/jackson-databind-2.8.7.jar"
+        revision="25.0.3"
+        sha1="6c3257ef458ac58a8da69a6dca3d2a15286d88c8">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jackson-databind-2.8.7-c476730af9bef927462764d94a6d4edde06a89e8.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/63993541cd82ee1c12baaa30ae0dca6ad3c3e3a4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f39c2ef6535922b7abee430f7b0c83a111e61f30.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/36444f1827bea7705ade25c4834caed0936b1233/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a975d66475326539a9f2b640d9557262da2fee71.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/eb6c68d7e1712b0d96e8130f1e70a2201c575fbb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-797fa7a44d9db5e978382f81b50fac4420076a9f.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/ccb890daec83046a754086aa16ed0bc2b0f07789/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-36951b3e9deb64ba433f75b4f1980f26178aec31.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.5/c73038a3688525aad5cf33409df483178290cd64/joda-time-2.5.jar"
+        revision="25.0.3"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/joda-time-2.5-4b7721eebb50df7c6ee882b793bc8cb913125755.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/da6382e5401f98703294f773cbd3eab516928aab/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e1ad5dde2416949624f637f3499b727a5742bec7.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/1f58d8512b7d2d07098957c701c5303f03fab44c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-207c76fbc34d2284953a91ddaa7179a9ca97e1de.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt/0.4/61ce246d937a0fd3acf06d3bef5fc9e3933ae812/jjwt-0.4.jar"
+        revision="25.0.3"
+        sha1="61ce246d937a0fd3acf06d3bef5fc9e3933ae812">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jjwt-0.4-13920edfdc52ebed0c1f5a8da9f993bd8b16a56d.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/javax.xml.stream/stax-api/1.0-2/d6337b0de8b25e53e81b922352fbea9f9f57ba0b/stax-api-1.0-2.jar"
+        revision="25.0.3"
+        sha1="d6337b0de8b25e53e81b922352fbea9f9f57ba0b">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/stax-api-1.0-2-0e596874fe486916abf12ed348b4e4f5da320906.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.4/b31526a230871fbe285fbcbe2813f9c0839ae9b0/httpcore-4.4.4.jar"
+        revision="25.0.3"
+        sha1="b31526a230871fbe285fbcbe2813f9c0839ae9b0">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/httpcore-4.4.4-f796c5e80d4ce769edc27947d8896539b0ae0240.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        revision="25.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/guava-18.0-e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/43a8a1dc8ea94ed572da696a1df244e3807fd57d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-59acbbdc3f6462675e9bb7549872214a9d06c50b.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/1c427a9885d5e946adf00d43ca79717a44e786c3/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b4248f7bb41a15db159d0693726f0d83efd4333c.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.android/build-cache/02ae949e5096bcdbe9104d385196453ee80d858f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7c3ba490821ff50baf9e20f6e4955c99707f2755.jar" />
+    </item>
+    <item
+        jar="/Users/gaurav/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2/d68570e722cffe2000358ce9c661a0b0bf1ebe11/jaxb-api-2.2.jar"
+        revision="25.0.3"
+        sha1="d68570e722cffe2000358ce9c661a0b0bf1ebe11">
+        <dex dex="/Users/gaurav/Desktop/Workspace/kisannetwork/SmsContacts/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jaxb-api-2.2-77523313ff1b2393d8781bc7244cc074fee72179.jar" />
+    </item>
+
+</items>

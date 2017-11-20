@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmsContacts</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="url">https://intense-shore-41909.herokuapp.com</string>
+    <string-array name="tabs">
+        <item>CONTACTS</item>
+        <item>SMS SENT</item>
+    </string-array>
+</resources>
